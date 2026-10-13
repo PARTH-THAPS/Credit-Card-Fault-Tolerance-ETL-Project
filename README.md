@@ -1,4 +1,4 @@
-# Credit Card Fault Tolerance ETL Project (FineGuard)
+# Credit Card Fault Tolerance ETL Project 
 
 A streaming ETL project on **Databricks** that ingests credit card transactions and fraud watchlist data, enriches them with customer data, and produces real-time fraud alerts, high-value transaction alerts, and windowed transaction metrics.
 
