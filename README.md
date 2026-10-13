@@ -26,6 +26,14 @@ Auto Loader (JSON files in a Volume) ──► bronze.fraud_watchlist ──► 
 | Fraud watchlist | Auto Loader (`cloudFiles`, JSON) from `/Volumes/fineguard/source/fraud_watchlist/source_data/` | `fineguard.bronze.fraud_watchlist` |
 | Customers | Lakeflow ingestion pipeline from PostgreSQL (`fineguard_postgres` connection) | `fineguard.bronze.customers` |
 
+
+
+
+<img width="845" height="292" alt="image" src="https://github.com/user-attachments/assets/974f7158-6a62-40e6-b341-ba8bfb34f65e" />
+
+
+
+
 ### Layers
 
 - **Bronze:** raw ingested data (transactions, fraud watchlist, customers).
